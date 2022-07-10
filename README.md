@@ -2,4 +2,4 @@
 
 Código da plaquinha esp32 para apresentar o carrossel de gatinhos na telinha tft.
 
-Obrigado Biazzotto! Melho Jedi!
+Obrigado Biazzotto! Melhor Jedi!
